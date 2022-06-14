@@ -1,0 +1,46 @@
+.tabPosi1{
+    width: 45%;
+    float: left;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.tabPosi2{
+    width: 45%;
+    float: right;
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+
+.tabPosi3{
+    width: 45%;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    }
+
+
+.tabPosi4{
+    position: relative;
+    width: 100%;
+    padding-left: 825px;
+    padding-top: 50px;
+    top: -570px;
+    right: 100px;  
+}
+
+
+body{
+    width: 100%;
+}
+
+.bgcolor{
+    background-color: burlywood
+}
+
+
+.captionstyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: normal;
+    color: black;
+}
